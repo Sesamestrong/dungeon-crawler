@@ -29,7 +29,7 @@
     "npm": "^6.9.0",
     "seed-random": "^2.2.0",
     "seedrandom": "^3.0.1",
-    "three": "^0.102.1",
+    "three": "^0.125.0",
     "three-orbit-controls": "^82.1.0"
   }
 }
